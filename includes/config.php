@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','3.109.202.133');
+define('DB_HOST','13.232.24.80');
 define('DB_USER','root');
 define('DB_PASS','#admin123');
 define('DB_NAME','carrental');
